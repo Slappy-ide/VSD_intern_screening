@@ -273,14 +273,16 @@ show
 
 **GTKWave Waveform:**
 
-<img width="1237" height="598" alt="image" src="https://github.com/user-attachments/assets/6781900e-d4ae-458b-8806-5aed7f23ec0b" />
+<img width="1249" height="368" alt="image" src="https://github.com/user-attachments/assets/df3f75df-f727-4b99-8b45-688556790bd6" />
+
 
 
 
 
 **Yosys Schematic:**
 
-<img width="1152" height="179" alt="image" src="https://github.com/user-attachments/assets/4ac1a53b-c4b7-4fcf-b6d1-44587f56b115" />
+<img width="1148" height="188" alt="image" src="https://github.com/user-attachments/assets/f06a2062-b5f0-4fe2-9fef-208547e3deba" />
+
 
 
 
