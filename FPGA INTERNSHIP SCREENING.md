@@ -1,4 +1,4 @@
-# VSD SKY130 RTL Design & Synthesis — Lab Documentation
+# VSD FPGA Intern Screening — Lab Documentation
 
 > *From Verilog to real silicon cells — a complete ASIC front-end flow using open-source tools.*
 
